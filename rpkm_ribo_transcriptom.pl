@@ -1,5 +1,5 @@
 use strict;use warnings;
-use lib "./ref/";
+use lib "./";
 use START_POS;
 
 my $start_pos=shift; #position of start codon
