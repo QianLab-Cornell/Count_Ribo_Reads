@@ -1,2 +1,2 @@
 # Count_Ribo_Reads
-The codes of Ribo-seq analysis, including aggregation plot, in-frame rate and codon occupancy
+The codes of Ribo-seq analysis, including aggregation plot, in-frame rate. Aggregation plot will generate normalized ribosome densities along CDS (near the start and stop codons). frame_along_cds will generate normalized in-frame rate along CDS (near the start and stop codons). The test.fastq.gz provide a test dataset which can be analyzed by any standard analysis pipeline of Ribo-seq. The  
